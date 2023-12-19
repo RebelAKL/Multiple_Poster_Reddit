@@ -1,1 +1,1 @@
-# Multiple_Poster_Reddit
+# Posting with Reddit API
