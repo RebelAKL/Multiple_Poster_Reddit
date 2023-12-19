@@ -1,1 +1,1 @@
-# Posting with Reddit API
+# Playing with Reddit API
